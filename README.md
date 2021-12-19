@@ -1,7 +1,7 @@
 # SeattleAirbnb
 Analysis of Seattle Airbnb data
 
-Motivation for the project: Provide and share insights from data.
+Motivation for the project: Provide and share insights from data provided by Airbnb.
 
 Libraries used: pandas, numpy, matplotlib, seaborn, descartes, geopandas, shapely, fiona, sklearn
 (very useful guide to installing geopandas: https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b)
