@@ -8,6 +8,8 @@ According to Investopedia, Airbnb is an online marketplace that connects people 
 Using data that they provided, I analyzed the demand for rental units by time of year, rental prices by neighborhood, and created linear regression model that predicts prices.
 
 
+
+
 Libraries used: pandas, numpy, matplotlib, seaborn, descartes, geopandas, shapely, fiona, sklearn
 (very useful guide to installing geopandas: https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b)
 
