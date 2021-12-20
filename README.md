@@ -8,7 +8,7 @@ Using data that they provided, I analyzed the demand for rental units by time of
 Libraries used: pandas, numpy, matplotlib, seaborn, descartes, geopandas, shapely, fiona, sklearn
 (very useful guide to installing geopandas: https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b)
 
-Files used: calendar.csv, listings.csv, reviews.csv; downloaded from https://www.kaggle.com/airbnb/seattle/data
+Files used: calendar.csv, listings.csv, reviews.csv
 
 Summary of the results of the analysis: Summer months are most popular time to visit Seattle, central neighborhoods (in particular Southeast Magnolia and Portage Bay) are more expensive on average. Linear regression model describes about 60% of the variability of the price.
 
