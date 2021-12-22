@@ -1,7 +1,7 @@
-![Airbnb Logo](./logodownload.org/wp-content/uploads/2016/10/airbnb-logo-4-1.png)
+![Airbnb Logo](https://logodownload.org/wp-content/uploads/2016/10/airbnb-logo-4-1.png)
 
 # SeattleAirbnb
-Analysis of Seattle Airbnb data
+Analysis of Seattle Airbnb data.
 ## Introduction
 
 According to Investopedia, Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide.
@@ -31,11 +31,18 @@ Very useful guide to installing geopandas:
 
 https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b
 
-Files used: calendar.csv, listings.csv, reviews.csv
+## Summary of the results
+Summer months are most popular time to visit Seattle.
 
-Summary of the results of the analysis: Summer months are most popular time to visit Seattle, central neighborhoods (in particular Southeast Magnolia and Portage Bay) are more expensive on average. Linear regression model describes about 60% of the variability of the price.
+Central neighborhoods (in particular Southeast Magnolia and Portage Bay) are more expensive on average.
 
-Acknownedgements:
-Data downloaded from the following link: https://www.kaggle.com/airbnb/seattle/data
+Linear regression model that was developed describes about 60% of the variability of the price.
+
+## Acknownedgements
+Data downloaded from: https://www.kaggle.com/airbnb/seattle/data
+
+Files used: calendar.csv, listings.csv
+
+
 
 
