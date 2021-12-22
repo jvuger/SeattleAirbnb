@@ -1,4 +1,4 @@
-![Airbnb Logo](./AirbnbLogo2.png)
+![Airbnb Logo](./logodownload.org/wp-content/uploads/2016/10/airbnb-logo-4-1.png)
 
 # SeattleAirbnb
 Analysis of Seattle Airbnb data
