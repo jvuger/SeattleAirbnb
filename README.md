@@ -1,12 +1,35 @@
+![Airbnb Logo](./AirbnbLogo2.png)
+
 # SeattleAirbnb
 Analysis of Seattle Airbnb data
+## Introduction
 
-Motivation for the project: Provide and share insights from Airbnb data.
 According to Investopedia, Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide.
-Using data that they provided, I analyzed the demand for rental units by time of year, rental prices by neighborhood, and created linear regression model that predicts prices.
 
-Libraries used: pandas, numpy, matplotlib, seaborn, descartes, geopandas, shapely, fiona, sklearn
-(very useful guide to installing geopandas: https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b)
+In this project, my goal was to provide and share insights from Airbnb data, by answering the following questions:
+1. What are the busiest times of year to visit Seattle?
+
+2. What is the average Airbnb rental property price by neighbourhood?
+
+3. Can we predict listing prices using linear regression?
+ 
+## Technologies
+* Python 3.7.2
+
+Libraries used: 
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* descartes
+* shapely
+* fiona
+* sklearn 
+* geopandas 
+
+Very useful guide to installing geopandas: 
+
+https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b
 
 Files used: calendar.csv, listings.csv, reviews.csv
 
