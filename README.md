@@ -43,7 +43,7 @@ Files used: calendar.csv, listings.csv
 
 Very useful guide to installing geopandas: https://medium.com/analytics-vidhya/fastest-way-to-install-geopandas-in-jupyter-notebook-on-windows-8f734e11fa2b
 
-Code block for adding value labels on bar chart comes from this link: https://stackoverflow.com/questions/28931224/adding-value-labels-on-a-matplotlib-bar-chart#:~:text=48-,Building,-off%20the%20above
+Adding value labels on bar chart: https://stackoverflow.com/questions/28931224/adding-value-labels-on-a-matplotlib-bar-chart#:~:text=48-,Building,-off%20the%20above
 
 
 
