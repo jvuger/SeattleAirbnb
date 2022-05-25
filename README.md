@@ -4,7 +4,7 @@
 </p>
 
 # SeattleAirbnb
-Analysis of Seattle Airbnb data.
+Analysis of and price prediction using Seattle Airbnb data.
 ## Introduction
 
 According to Investopedia, Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide.
